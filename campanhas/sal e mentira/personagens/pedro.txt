@@ -1,0 +1,144 @@
+Ficha de Personagem — RPG Mitos
+Identidade
+
+Nome do herói: Pedro Lopes
+
+Jogador: Predo
+
+Idade: 16
+
+Conceito: ___________________________________________
+
+Vida mortal: ________________________________________
+
+Origem Divina
+
+Ancestral divino: Hermes
+
+
+
+Linhagem: Cemideus
+
+Bênção: 
+
+
+Nível: 3
+
+
+Resistência Forte: Destreza
+
+Idioma divino: Grego antigo
+
+Atributos
+Carisma: 16+3
+Destreza: 20+5
+Inteligência	: 16+3
+Força: 10
+Valores de Combate
+
+PV Máximo: 36/36
+
+PV Atual:36
+
+PM máximo: 60
+
+PM atual: 60
+
+Atributo de PM: DES
+
+Classe de Armadura (AC): 16
+
+Iniciativa: +5
+
+BDP: 3
+
+DC das Magias: 16
+
+Movimento: 13,5
+
+Equipamentos
+
+Arma Predileta: Espada curta (xifos)
+1d6
+Leve · ágil (ataca mesmo após Correr) — a lâmina móvel do herói
+
+
+Estilo(s) de Combate: 
+Dimachaerus — Duas Lâminas
+Duas lâminas, uma em cada mão — e o dobro de problema para quem está na sua frente. Você não apara: responde. As espadas-anel de ouro imperial de Nova Roma são o exemplo célebre. Armas: duas armas leves (adaga, gládio, espada curta).
+• Iniciado: atacando com duas armas leves no turno, a penalidade do segundo ataque cai de −2 para −1.
+• Adepto: o segundo ataque não tem penalidade. Se ambos acertam o mesmo alvo, +1d6 de dano.
+• Mestre: 1× por rodada, quando um de seus ataques acerta, desfira um terceiro corte imediato contra o mesmo alvo (dano normal).
+
+Armas
+Espada curta (xifos), 1d6
+
+Armadura: ___________________________________________
+Couro tacheado
++3
+couro com tachas
+Padrão de aventureiros
+Bônus de AC: 3
+
+Habilidades Treinadas
+
+
+☐ Reflexos
+
+☐ Espreita
+
+
+☐ Lábia
+
+
+Heranças
+1
+Mãos Leves
+Vantagem em testes de Destreza para roubar, esconder e manipular pequenos objetos.
+3
+Pés Rápidos
+Velocidade de deslocamento +50% (todos os modos: andar, correr, escalar, nadar).
+
+Escolhas:
+1
+Falar Línguas
+Por 1h, entende e fala qualquer língua local conhecida.
+5 PM
+3
+Movimento Felino
+Passa por qualquer espaço onde caberia um gato; escalar/pular sem testes.
+passivo
+
+Magias:
+1
+Olhar do Mensageiro
+Vê os próximos 10 km da rota que vai usar: identifica perigos, NPCs no caminho, condições do solo. Foco em previsão de viagem.
+5 PM
+Truque:
+1
+Língua Solta
+Em qualquer cidade, em 5 min sabe o burburinho local (notícias, fofocas, rumores).
+Rompante:
+Finta — um gesto veloz: saque ou guarde um item e dê um passo de 1,5 m de graça, sem provocar Bote.
+Recursos
+
+Néctar/Ambrosia: ______________________
+
+Recuperação Temática: ________________________________
+
+Dracmas: __________
+
+Denários: __________
+
+Dinheiro Mortal: __________
+
+Itens Mágicos / Suvenires:
+
+
+Vínculos e História
+
+Aliados / Vínculos:
+
+Profecia / Objetivo:
+
+Notas:

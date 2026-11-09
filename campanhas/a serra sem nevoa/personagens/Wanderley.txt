@@ -1,0 +1,102 @@
+Jogador: Pedro
+Nome: Wanderley Cavalcante Lopes
+Idade: 17
+Conceito:
+Vida mortal:
+Origem divina: Ares
+Nível: 4
+Experiência:
+Idioma divino: Grego
+Atributos:
+Carisma: 9 MOD -1
+Destreza: 16 MOD +3
+Inteligência: 13 MOD +1
+Força: 19 MOD +4
+Pontos de vida: 72/72
+Pontos de ímpeto: 20/20
+Classe de armadura: 16
+Iniciativa: +3
+Bônus de proficiência: 2
+Deslocamento 9 M:
+Rompante: Rosnado — um encaro de fúria: um inimigo adjacente tem −1 no próximo ataque contra você.
+Arma predileta: Soquinho e chutinho
+Outras armas: Machado de batalha
+Estilos de combate:
+Pancrácio — Luta Desarmada
+Sem arma nenhuma — você é a arma. Armas: nenhuma — golpes desarmados (punhos, cotovelos, joelhos, agarrões).
+• Iniciado: seus golpes desarmados causam 1d6 (For) e contam como arma; agarrar vem com vantagem.
+Secutor — Perseguidor
+Arma pesada, avanço implacável. Onde você bate, racha. Armas: armas pesadas (espada de duas mãos, machado de batalha, martelo de guerra, clava, morning star, maça).
+• Iniciado: com uma arma pesada, re-role resultados de 1 e 2 no dado de dano (fica com o novo).
+
+Armas e danos:
+Porrada 1d6 +4
+Armadura: Armadura leve de taxas, +3 CA
+Escudo: nenhum
+
+Habilidades treinadas:
+Proeza: +6
+Imposição: +6
+Condução: +5
+Heranças:
+1
+Fúria
+Ação grátis: ativa por 2 turnos. +1d6 dano em ataques, −5 dano recebido, +3 For. 1× por combate.
+3
+Arma Treinada
+Escolhe 1 arma: BDP soma no dano (não só no acerto) dessa arma específica.
+Escolhas:
+1
+Resistência Marcial
+Imune a medo, intimidação e efeitos de pavor.
+passivo
+3
+Lâmina de Sangue
+Feito. Seu próximo ataque neste turno causa +1d6 dano e drena 1d4 PV do alvo para você.
+8 Ímpeto
+3
+Lança Selvagem
+Feito. Ataque com arma de arremesso (ou um objeto pesado, 1d8): +1d8 dano; no acerto, o alvo testa For (DC de magia) ou fica Caído.
+8 Ímpeto
+Truque:
+1
+Bebida do Guerreiro
+Qualquer bebida que você toca vira hidromel forte. Beber recupera 1 Ímpeto.
+
+Manifestações:
+1
+Marca de Guerra
+Feito. Faça um ataque com arma; no acerto, marca o inimigo: ataques seguintes contra ele (seus OU de qualquer aliado) causam +1d6 dano por 3 turnos.
+5 Ímpeto
+Recursos:
+Néctar:
+Ambrosia:
+Forma de recuperação:
+Dinheiro mortal: 200 Reais
+Dracmas: 14
+Itens mágicos:
+Equipamentos:
+Pertences:
+Cilindro de  bronze
+Garra de harpia +2 DES 
+Descrição física: Wanderley tem pele morena, cabelos pretos e curtos, com as laterais raspadas em degradê, e olhos castanhos. É um rapaz forte e corpulento, de ombros largos, braços grossos e mãos grandes, com os nós dos dedos marcados pelas brigas em que costuma se meter. Apesar do porte robusto, movimenta-se com agilidade.
+Costuma usar camisetas, principalmente as do Bahia, bermudas e chinelos. No pescoço, carrega uma corrente simples, e no pulso mantém uma fitinha do Senhor do Bonfim que sua mãe amarrou nele. Já desbotada pelo tempo e pelo trabalho na roça, ela continua ali, e Wanderley não tem o costume de tirá-la.
+Descrição psicológica:
+Traço de personalidade:
+Valores e ideais:
+Vínculos: Régys
+Defeitos:
+Manias, sotaques e apegos:
+Aliados:
+Profecia pessoal:
+Na serra em que a água se desfaz em fumaça, os que vierem descerão aonde a luz não passa. A filha da encruzilhada os há de guiar, e o avô sem rosto o mundo há de velar. Na noite das fogueiras, o véu voltará à nascente, e um há de esquecer quem o fez gente.
+Objetivo:
+Anotações:
+Gancho 8
+História:
+Wanderley nasceu em 19 de maio de 2009, em Feira de Santana, na Bahia. Filho de Valdete, cresceu ajudando a mãe com as plantações sempre que podia. Não era exatamente um rapaz comportado. Gostava de andar com os amigos, arrumar confusão e resolver desentendimentos na base da porrada. Já tinha se metido em brigas por motivos que nem lembrava direito, mas, no fim das contas, quase sempre acabava voltando para casa como se nada tivesse acontecido.
+Apesar disso, não era um filho ruim. Quando Valdete precisava de ajuda na roça, Wanderley dava um jeito de aparecer. Reclamava do calor, do cansaço e de ter que largar os amigos para trabalhar, mas fazia o serviço. Também tinha uma moto velha que pertencia à mãe e que ela já não usava. Sem habilitação e sem muita preocupação com as consequências, ele pegava a moto para dar umas voltas por aí. Pelo menos sabia pilotar, o que, na cabeça dele, já era o bastante.
+A vida seguia mais ou menos assim até que, em um dia comum, enquanto ajudava Valdete com as plantações, Wanderley acabou se metendo em uma briga bem diferente das que estava acostumado. Ele encontrou umas criaturas estranhas, os carpoi, que por algum motivo resolveram partir para cima dele. Sem entender direito o que estava acontecendo, fez o que faria com qualquer sujeito que tentasse arrumar confusão: Porrada.
+O problema era que aqueles seres não eram pessoas comuns. A briga foi feia, mas Wanderley conseguiu enfrentá-los usando uma força que nem ele sabia explicar. Não fazia ideia do que aquelas criaturas eram, por que estavam ali ou como caralhos tinha conseguido encarar monstros daquele jeito. Só sabia que tinha apanhado, batido e saído daquela história com muito mais perguntas do que respostas.
+Agora, aos dezessete anos, Wanderley continua levando a vida do jeito que consegue. Para ele, sua força é apenas uma característica estranha que nunca parou muito para questionar. Entre ajudar a mãe, encontrar os amigos e dar umas voltas com sua moto velha, ainda tem muita coisa que não entende sobre si mesmo.
+E, se depender dele, ninguém vai convencê-lo a deixar de resolver seus problemas do jeito que sempre resolveu.

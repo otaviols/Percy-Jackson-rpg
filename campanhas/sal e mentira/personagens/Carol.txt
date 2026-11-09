@@ -1,0 +1,192 @@
+==================================================
+IDENTIDADE
+==================================================
+
+Nome do Herói:
+
+Jogadora: Carol Montes
+
+Idade: 14
+
+Conceito:
+
+Vida Mortal:
+
+
+==================================================
+ORIGEM DIVINA
+==================================================
+
+Ancestral Divino: poseidon
+
+Linhagem: semideus
+
+Nível: 3
+
+Resistência Forte: Força
+
+Idioma Divino: Grego antigo
+
+
+==================================================
+ATRIBUTOS
+==================================================
+
+Carisma: 11
+
+Destreza: 16
+
+Inteligência: 12
+
+Força: 18
+
+
+==================================================
+VALORES DE COMBATE
+==================================================
+
+PV Máximo: 62
+
+
+PV Atual: 62
+
+
+PM Máximo: 54
+
+
+PM Atual: 54
+
+
+Atributo de PM: Força
+
+
+Classe de Armadura (AC): 16
+
+
+Iniciativa: 3
+
+
+BDP: 3
+
+
+DC das Magias: 15
+
+
+Movimento: 9
+
+
+
+==================================================
+EQUIPAMENTOS
+==================================================
+
+Arma Predileta
+Rede e tridente
+Tridente
+1d6
+1 ou 2
+Versátil (1d8) · alcance (+1,5 m) · arremessável (12 m)
+Estilo(s) de Combate
+Retiarius — Rede e Tridente
+• Iniciado: ao acertar com rede, chicote ou corrente, o alvo fica restrito; armas de haste (tridente, lança) usam o alcance estendido.
+
+
+Armadura
+Couraça de couro batido
++4
+couro reforçado
+==================================================
+HABILIDADES TREINADAS
+==================================================
+Proeza
+Instinto
+Condução
+
+==================================================
+HERANÇAS
+==================================================
+1
+Adaptação Aquática
+Respira embaixo d'água; opta por se molhar ou não em contato com água.
+3
+Falar com o Mar
+Conversa com criaturas marinhas e cavalos (qualquer espécie).
+
+==================================================
+ESCOLHAS
+==================================================
+Gole Revigorante
+Bebe água: cura 2d8 PV e remove 1 efeito de veneno.
+5 PM
+3
+Perícia com Tridentes/Lanças
+Em ataques com tridente ou lança, BDP soma no dano.
+passivo
+==================================================
+MAGIAS
+==================================================
+1
+Controle Parcial da Água
+Ataque/defesa de água: 2d4 dano + empurrão.
+8 PM
+==================================================
+RECURSOS
+==================================================
+Truque:
+1
+Tom de Concha
+Concha pressionada ao ouvido transmite informações fragmentadas sobre mares longínquos (rumores marítimos: naufrágios, tempestades, encontros).
+Rompante:
+Respingo — água encharca um alvo a 3 m; contra alvo molhado, seu próximo ataque tem +1. Pode molhar a si mesmo para ativar efeitos aquáticos.
+Néctar / Ambrosia:
+
+
+Recuperação Temática:
+
+
+Dracmas:
+11
+
+Denários:
+
+
+Dinheiro Mortal:
+50
+
+
+==================================================
+ITENS MÁGICOS / SUVENIRES
+==================================================
+
+
+
+
+
+
+
+
+==================================================
+VÍNCULOS E HISTÓRIA
+==================================================
+
+Aliados / Vínculos
+
+
+
+
+
+
+Profecia / Objetivo
+
+
+
+
+
+
+Notas
+
+
+
+
+
+
